@@ -1,1 +1,1 @@
-This is a test
+[![Build Status](http://ec2-18-190-32-28.us-east-2.compute.amazonaws.com/buildStatus/icon?job=pull-from-github-repo)](http://ec2-18-190-32-28.us-east-2.compute.amazonaws.com/job/pull-from-github-repo/)
